@@ -1,0 +1,35 @@
+div {
+    width: 20%;
+    margin: auto;
+}
+
+input, button {
+    padding: 10px;
+    display: inline-block;    
+}
+
+/* li {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -40px;
+    list-style: none;
+} */
+
+/* body{
+    align-items: center;
+    margin-top: 30vh;
+} */
+
+h1{
+    margin-top: auto;
+    text-align: center;
+}
+
+button{
+    margin-top: 8px;
+}
+
+body{
+    background-image: url("https://i.postimg.cc/jjN1Wm0n/5bc78de8e1a40152c703a76a8655eb87.jpg");
+    background-size: 50%
+    }
